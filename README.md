@@ -1,4 +1,4 @@
-# ☕ Java Trainee REST API (CRUD Operations)
+# ☕ Java Trainee Info REST API (CRUD Operations)
 
 A secure and robust RESTful API built with Spring Boot to manage Java Trainee records. It implements complete CRUD (Create, Read, Update, Delete) operations, database persistence, secure endpoints, and interactive API documentation.
 
