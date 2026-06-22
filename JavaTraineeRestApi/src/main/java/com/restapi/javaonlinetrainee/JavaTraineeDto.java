@@ -24,7 +24,7 @@ private String email;
 @Size(min = 10,max=10,message = "min 10 and max 10 digits is allowed")
 @NotEmpty(message="Mobile cannot be blank")
 private String mobile;
-@NotEmpty(message="Name cannot be blank")
+@NotEmpty(message="Cource Name cannot be blank")
 @Size(min = 4,max=20,message = "min 4 and max 20 character is allowed")
 private String cource;
 @DecimalMin("2000.0")
